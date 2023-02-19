@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "vetpet",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vetpet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
